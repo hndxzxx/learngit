@@ -9,7 +9,7 @@ using namespace Eigen;
 // modify
 int main(int argc, char *argv[])
 {
-
+// new modity hehe
   std::cout<< argc << std::endl;  
   std::cout<< argv[1] << std::endl;
   std::string filename = "../data/head_cleaned_align_normal.obj";
